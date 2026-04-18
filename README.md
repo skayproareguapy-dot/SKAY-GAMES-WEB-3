@@ -1,2 +1,8 @@
-# SKAY-GAMES-WEB-3
-WEB OFICIAL SKAY GAMES 3
+# SKAY GAMES
+
+Proyecto armado desde tu código completo real.
+
+## Vercel
+- Framework: Vite
+- Build Command: npm run build
+- Output Directory: dist
